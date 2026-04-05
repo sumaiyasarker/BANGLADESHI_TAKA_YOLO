@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 18
+names: ['1000b', '1000f', '100b', '100f', '10b', '10f', '200b', '200f', '20b', '20f', '2b', '2f', '500b', '500f', '50b', '50f', '5b', '5f']
+
+roboflow:
+  workspace: zenraa
+  project: bangladeshi-taka-homemade-8058
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/zenraa/bangladeshi-taka-homemade-8058/dataset/4
