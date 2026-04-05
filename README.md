@@ -19,7 +19,7 @@ Due to file size limits on GitHub, the full dataset and large assets are hosted 
 * `YOLOv26.ipynb`: The complete training, validation, and inference pipeline.
 * `best.pt`: The final trained model weights for deployment.
 * `data.yaml`: Configuration file defining class names and directory paths.
-* `samples/`: (Recommended) Folder containing images with detected bounding boxes.
+* `output`:  Folder containing images with detected bounding boxes.
 
 ## 🚀 How to Use
 1. Clone this repository.
