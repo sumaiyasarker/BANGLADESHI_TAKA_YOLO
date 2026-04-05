@@ -10,7 +10,9 @@ This project was developed as part of an AI research assignment to create a robu
 * **Mean Average Precision (mAP):** 72.7%
 * **Inference Hardware:** Optimized for CPU-based detection (~40ms)
 
-
+## 🔗 External Resources
+Due to file size limits on GitHub, the full dataset and large assets are hosted externally:
+* **📁 Full Dataset (17k+ Images):** [PASTE YOUR GOOGLE DRIVE LINK HERE]
 
 ## 📁 Repository Structure
 * `YOLOv26.ipynb`: The complete training, validation, and inference pipeline.
@@ -18,11 +20,6 @@ This project was developed as part of an AI research assignment to create a robu
 * `data.yaml`: Configuration file defining class names and directory paths.
 * `samples/`: (Recommended) Folder containing images with detected bounding boxes.
 
-## 🚀 How to Use
-1. Clone this repository.
-2. Install dependencies: `pip install ultralytics roboflow`
-3. Run the `YOLOv26.ipynb` notebook in Google Colab or a local Jupyter environment.
-4. Use the `best.pt` file for real-time inference on new Taka note images.
 
 ## 📈 Evaluation Results
 The model shows strong performance in distinguishing between similar-colored notes (e.g., 10 and 100 Taka) by focusing on specific textural features and numerical annotations on the currency.
