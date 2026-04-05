@@ -10,9 +10,6 @@ This project was developed as part of an AI research assignment to create a robu
 * **Mean Average Precision (mAP):** 72.7%
 * **Inference Hardware:** Optimized for CPU-based detection (~40ms)
 
-## 🔗 External Resources
-Due to file size limits on GitHub, the full dataset and large assets are hosted externally:
-* **📁 Full Dataset (17k+ Images):**(https://drive.google.com/drive/folders/172IhLhm0pGyGq-pbMBQ2AxribZEI-F2a?usp=sharing)
 
 ## 📁 Repository Structure
 * `YOLOv26.ipynb`: The complete training, validation, and inference pipeline.
